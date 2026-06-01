@@ -1,11 +1,11 @@
 ---
 layout: post
-title: About Moonwalk
+title: About the EMS Diagnostic Simulator
 ---
 
-Moonwalk is a fast, minimal Jekyll theme built for people who want their writing to look great without fighting their tools.
+The EMS Diagnostic Simulator is a program meant to help EMS clinicians and other medical professionals sharpen their diagnostic skills in increasingly difficult scenarios using procedurally generated patients.
 
-## Why Moonwalk?
+## Why Create this?
 
 Most Jekyll themes fall into two camps - either so bare-bones that you spend hours styling, or so bloated with features that your Lighthouse score tanks before you write a single post.
 
